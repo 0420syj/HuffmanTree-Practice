@@ -1,1 +1,1 @@
-# HuffmanTree_Compression
+# HuffmanTree-Practice
